@@ -1,4 +1,4 @@
-## Simple HTML Pages
+## Simple HTML
 
 A couple of simple HTML pages to improve my skills in HTML
 ![Logo Image](intro-html.png)
