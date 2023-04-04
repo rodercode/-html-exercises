@@ -1,7 +1,7 @@
 ## Simple HTML Pages
 
 A couple of simple HTML pages to improve my skills in HTML
-![Logo Image](intro.jpg)
+![Logo Image](intro.png)
 
 # What I have learned
 
